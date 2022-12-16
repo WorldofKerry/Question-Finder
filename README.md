@@ -1,4 +1,4 @@
-# open-book-mc-tool
+# Question Finder
 Matches a given question to the most similar questions in a question pool. 
 
 ## Usage
