@@ -1,0 +1,19 @@
+question,answer,choice1,choice2,choice3
+,,,,
+Which of the following is NOT a difference between a traditional desktop application and a web application ?,"Desktop applications do not need periodic upgrades, while web applications do","Desktop applications run locally, while web applications run on both the client and the server","Desktop applications are not limited to using the web browser, while web applications are","Desktop applications do not require constant connection to the Internet, while web applications do for the most part"
+"In a modern application, in order to bring in new content from the server, which of the following is typically used ?",AJAX request,Clicking a new hyper-link,Submitting a form,None of the above
+Modern web applications do NOT need to perform any processing on the server after the initial page load in order to provide interactivity to the end user,TRUE,FALSE,,
+Which is the only HTML element of the ones shown below that does not have a visual representation of its own (as per the HTML standard) ?,�<DIV>,<A>,<P>,<UL>
+The main difference between the ID and class attribute of a HTML element is,IDs are unique while Classes are not,Classes are unique while IDs are not,Neither IDs nor Classes are unique,None of the above
+"In CSS, the order for most ""specific"" rule matching in a given element, which of the following comes first (i.e., has the highest priority)",IDs,Tags,Classes,None of the above
+"Consider the following HTML element <div class = ""XYZ"" ID=""ABC"">, and the CSS rules as follows:
+
+#ABC { color: red }
+
+.XYZ { color: blue }
+
+Assuming there're no other rules in the CSS file, then the color of the element is",Red,Blue,Both Red and Blue,None of the above
+"Write the CSS rule tag to match the following ""An element X that is a direct child of an element Y""",Y > X,,,
+The DOM tree of a modern web application remains static throughout its execution.,FALSE,TRUE,,
+"The DOM tree of an application is common to all its elements; HTML, CSS and JavaScript code (if any).",TRUE,FALSE,,
+,,,,
